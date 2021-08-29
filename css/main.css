@@ -1,0 +1,41 @@
+.left-box__img{
+    object-fit: cover;
+    width: 100%;
+    
+}
+
+.last-btn{ 
+        width: inherit;
+        margin: 0 auto;
+        text-align: center;    
+}
+
+
+/* @media only screen and (max-width: 992px) {
+  
+    .left-box__list{
+        flex-direction: column;
+    }
+   
+ } */
+ 
+ 
+ /* @media only screen and (max-width: 767px){
+    .movee__wrapper{
+        flex-direction: column;
+        max-width: 100%;
+    }
+ 
+    .right-box{
+        width: 100%/important;
+ 
+    }
+ } */
+ 
+ /* @media only screen and (max-width: 392px){
+     .btn{
+         flex-direction: column;
+         margin-bottom: 10px;
+     }
+ }
+  */
